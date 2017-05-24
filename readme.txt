@@ -1,2 +1,2 @@
 
-readme in b1
+readme in b2

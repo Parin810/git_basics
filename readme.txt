@@ -1,4 +1,4 @@
 A
 B2
-C
+i deleted parins line to create merge conflict
 this line is added by saurav
